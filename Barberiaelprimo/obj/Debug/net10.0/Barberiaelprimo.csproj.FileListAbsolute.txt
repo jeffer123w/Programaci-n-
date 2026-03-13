@@ -1,0 +1,15 @@
+C:\Users\jefer\source\repos\Barberiaelprimo\obj\Debug\net10.0\Barberiaelprimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jefer\source\repos\Barberiaelprimo\obj\Debug\net10.0\Barberiaelprimo.AssemblyInfoInputs.cache
+C:\Users\jefer\source\repos\Barberiaelprimo\obj\Debug\net10.0\Barberiaelprimo.AssemblyInfo.cs
+C:\Users\jefer\source\repos\Barberiaelprimo\obj\Debug\net10.0\Barberiaelprimo.csproj.CoreCompileInputs.cache
+C:\Users\jefer\source\repos\Barberiaelprimo\obj\Debug\net10.0\Barberiaelprimo.sourcelink.json
+C:\Users\jefer\source\repos\Barberiaelprimo\bin\Debug\net10.0\Barberiaelprimo.exe
+C:\Users\jefer\source\repos\Barberiaelprimo\bin\Debug\net10.0\Barberiaelprimo.deps.json
+C:\Users\jefer\source\repos\Barberiaelprimo\bin\Debug\net10.0\Barberiaelprimo.runtimeconfig.json
+C:\Users\jefer\source\repos\Barberiaelprimo\bin\Debug\net10.0\Barberiaelprimo.dll
+C:\Users\jefer\source\repos\Barberiaelprimo\bin\Debug\net10.0\Barberiaelprimo.pdb
+C:\Users\jefer\source\repos\Barberiaelprimo\obj\Debug\net10.0\Barberiaelprimo.dll
+C:\Users\jefer\source\repos\Barberiaelprimo\obj\Debug\net10.0\refint\Barberiaelprimo.dll
+C:\Users\jefer\source\repos\Barberiaelprimo\obj\Debug\net10.0\Barberiaelprimo.pdb
+C:\Users\jefer\source\repos\Barberiaelprimo\obj\Debug\net10.0\Barberiaelprimo.genruntimeconfig.cache
+C:\Users\jefer\source\repos\Barberiaelprimo\obj\Debug\net10.0\ref\Barberiaelprimo.dll
